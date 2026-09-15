@@ -1,1 +1,2 @@
 # odin-recipes
+The purpose of this project is the deomstrate HTML foundations such as file structure, elements, attributes, headers, text, lists, links, and images. We will use these techniques to create a Recipe website.
